@@ -12,6 +12,3 @@ N/A
 ## Review
 The URL of the deployed Web Page: https://shwetatambe060217.github.io/Bootstrap-Portfolio/
 
-(https://github.com/ShwetaTambe060217/Bootstrap-Portfolio/blob/main/images/Webpage_1.JPG)
-(https://github.com/ShwetaTambe060217/Bootstrap-Portfolio/blob/main/images/Webpage_2.JPG)
-(https://github.com/ShwetaTambe060217/Bootstrap-Portfolio/blob/main/images/Webpage_3.JPG)
